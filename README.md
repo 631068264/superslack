@@ -17,5 +17,8 @@ stderr_logfile = xxxx.log
 `super_slack.py` just like a demo. If you want to use it relpace the method from `from base import util` or modify it if you like.
 
 ### About webhook:
-- install **Incoming WebHooks** on a channel
-- put the **webhook url** to the script  or use it modify my script and use it like `python super_slack.py -w xxx` 
+- Install **Incoming WebHooks** on a channel
+- Put the **webhook url** to the script  or use it modify my script and use it like `python super_slack.py -w xxx` 
+- To get more info about [supervisor event](http://supervisord.org/events.html)
+
+
