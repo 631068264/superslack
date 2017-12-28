@@ -22,3 +22,4 @@ stderr_logfile = xxxx.log
 - To get more info about [supervisor event](http://supervisord.org/events.html)
 
 
+(https://github.com/631068264/superslack/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE.jpeg)
